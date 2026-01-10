@@ -1,6 +1,6 @@
 ## Introducing Myself 👋
 
-Hello, I’m Pedro. I hold a Bachelor’s degree in Physics Engineering from UFMS, and my work focuses on data science, applied machine learning, and MLOps, with an emphasis on production-grade systems.
+Hello, I’m Pedro. I hold a Bachelor’s degree in Physics Engineering from UFMS. My work focuses on data science, applied machine learning and MLOps, with an emphasis on production-grade systems.
 
 I design and build end-to-end machine learning systems, from exploratory analysis to automated deployment, monitoring, and retraining in production environments.
 
@@ -11,7 +11,7 @@ I design and build end-to-end machine learning systems, from exploratory analysi
 - MLOps & Production – MLflow, Prefect, GitHub Actions, Docker, Evidently, Prometheus, Grafana, FastAPI.  
 - Cloud – AWS (EC2, S3). 
 - Modeling: Supervised and unsupervised on tabular. NLP and Computer Vision (foundational). 
-- Tools – Ubuntu, Pandas, Numpy, Scikit-learn, PyTorch (foundational), Optuna, Matplotlib, Seaborn, Tableu, Poetry, Notion. 
+- Tools – Ubuntu, Pandas, Numpy, Scikit-learn, PyTorch, Optuna, Matplotlib, Seaborn, Tableu, Poetry, Notion. 
 
 <p align="left"> 
 
