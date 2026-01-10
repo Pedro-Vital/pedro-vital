@@ -10,7 +10,7 @@ I design and build end-to-end machine learning systems, from exploratory analysi
 - Programming & Data – Python, SQL
 - MLOps & Production – MLflow, Prefect, GitHub Actions, Docker, Evidently, Prometheus, Grafana, FastAPI.  
 - Cloud – AWS (EC2, S3). 
-- Modeling: Supervised and unsupervised on tabular. NLP and Computer Vision (foundational). 
+- Modeling – Supervised and unsupervised on tabular. NLP and Computer Vision (foundational). 
 - Tools – Ubuntu, Pandas, Numpy, Scikit-learn, PyTorch, Optuna, Matplotlib, Seaborn, Tableu, Poetry, Notion. 
 
 <p align="left"> 
