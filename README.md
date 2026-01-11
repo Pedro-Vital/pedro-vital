@@ -1,5 +1,3 @@
-![github_profile_image.png](./github_profile_image.png)
-
 ## Introducing Myself 👋
 
 Hello, I’m Pedro. I hold a Bachelor’s degree in Physics Engineering from UFMS. My work focuses on data science, applied machine learning and MLOps, with an emphasis on production-grade systems.
@@ -48,3 +46,5 @@ I design and build end-to-end machine learning systems, from exploratory analysi
 
 ---
 📫 Reach me: `pedrosalazarvital@gmail.com`
+
+![github_profile_image.png](./github_profile_image.png)
