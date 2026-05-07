@@ -1,26 +1,42 @@
 ## Introducing Myself 👋
 
-Hello, I’m Pedro. I hold a Bachelor’s degree in Physics Engineering from UFMS. My work focuses on data science, applied machine learning and MLOps, with an emphasis on production-grade systems.
+Hello, I’m Pedro — an ML & AI Engineer and Data Scientist with a background in Engineering Physics from UFMS.
 
-I design and build end-to-end machine learning systems, from exploratory analysis to automated deployment, monitoring, and retraining in production environments.
+My work focuses on building production-grade AI systems, combining machine learning engineering, LLM applications, retrieval systems, agentic workflows, and MLOps practices.
+
+I design systems across the full AI lifecycle:\
+data → training → orchestration → deployment → evaluation → monitoring → continuous improvement.
 
 ---
 ## 🛠️ Technical Stack
 
-- Programming & Data – Python, SQL
-- MLOps & Production – MLflow, Prefect, GitHub Actions, Docker, Evidently, Prometheus, Grafana, FastAPI.  
-- Cloud – AWS (EC2, S3). 
-- Modeling – Supervised and unsupervised on tabular. NLP and Computer Vision (foundational). 
-- Tools – Ubuntu, Pandas, Numpy, Scikit-learn, PyTorch, Optuna, Matplotlib, Seaborn, Tableu, Poetry, Notion. 
+- Programming & Data: Python, SQL
+- ML:  Supervised & Unsupervised Learning, Deep Learning, NLP, Computer Vision, XGBoost,  K-Means
+- Data & Scientific Computing: Pandas, NumPy, Scikit-learn, PyTorch, PySpark, Matplotlib, Seaborn
+- MLOps & Deployment: MLflow, Prefect, Docker, FastAPI, CI/CD (GitHub Actions), AWS (EC2, S3)
+- Monitoring & Observability: Evidently, Prometheus, Grafana
+- AI Engineering & LLMs: RAG, Agentic AI, LLM orchestration, Prompt Engineering, Tool Calling
+- Frameworks & Ecosystem: LangChain, LangGraph, LangSmith, OpenAI API, OpenAI Agents SDK, CrewAI, AutoGen, MCP (Model Context Protocol), Hugging Face Transformers
+- Retrieval & Vector Databases: Embeddings, Vector Search, FAISS, Chroma, Hybrid Search
 
 ---
-## 🚀 Project: End-to-End MLOps System
+## 🚀 PROJECTS
+
+### End-to-End MLOps System
 
 🔹 **Churn Prediction System (Production-Oriented)**  
-- An end-to-end machine learning system focused on automation, scalability, and monitoring.
+- An end-to-end machine learning system focused on automation, scalability, and monitoring
 - Full ML lifecycle: EDA → training → deployment → monitoring → automated retraining
 
-👉 **[`View the project repository`](https://github.com/Pedro-Vital/churn-project)**
+👉 **[`View the churn project repository`](https://github.com/Pedro-Vital/churn-project)**
+
+### RAG Systems and Agentic AI Workflows
+
+- RAG pipelines from foundational to agentic architectures
+- Multi-agent systems using LangGraph, CrewAI, OpenAI Agents SDK and MCP
+
+👉 **[`View the RAG repository`](https://github.com/Pedro-Vital/rag-academic)**\
+👉 **[`View the Agentic AI repository`](https://github.com/Pedro-Vital/agentic-ai-academic)**
 
 ---
 📫 Reach me: `pedrosalazarvital@gmail.com`
